@@ -1,7 +1,7 @@
 # bitdegree
 Front-End Web Development Course available at https://www.bitdegree.org/front-end-course-online
 
-Web Design (80 hours) \n
+Web Design (80 hours)
 HTML (40 hours)
 CSS (160 hours)
 Advanced CSS
